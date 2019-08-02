@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Biodata</title>
+</head>
+<body>
+		<a href="https://www.instagram.com/accounts/ainaboam12"></a>
+		<img src="ain.jpg" width="175" height="200" alt=" foto aina">
+		<h1>Welcome My Biodata</h1>
+
+		<ul>
+			<li> Nama : Aina Almaida P</li>
+			<li>TTL : Subang,02 Juli 2003</li>
+			<li>Alamat : Griya Pesona Praja</li>
+		</ul>
+
+		<p>Selamat datang di My Biodata Aina Almaida p, disini saya akan mengenalkan tentang diri saya, saya lahir dari keluarga AL5.
+		</p>
+
+
+	<table border=1 cellspacing=0 cellpadding=10 align="center"> <!-- table genap-->
+		<tr>
+			<td> </td>
+			<td></td>
+			<td colspan="4">11</td>
+			<td></td>
+			<td rowspan="4">25</td>
+		</tr>
+		<tr>
+			<td rowspan="3">21 </td>
+			<td></td>
+			<td colspan="2">12</td>
+			<td colspan="2">13</td>
+			<td></td>
+		</tr>
+		<tr> 
+			<td rowspan="4">22</td>
+			<td> </td>
+			<td colspan="3">14</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td rowspan="3"> 23 </td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td rowspan="4">24</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td colspan="4">15</td>
+			<td></td>
+		</tr>
+	</table>
+</body>
+</html>
